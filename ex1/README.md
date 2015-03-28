@@ -2,7 +2,7 @@
 
 ## Creare le seguenti tabelle:
 
-![Tabelle](/img.png)
+![Tabelle](https://github.com/PugliaSOS/sql-exercises/raw/master/ex1/img.png)
 
 ## Inserire i dati:
 
